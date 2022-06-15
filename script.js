@@ -83,7 +83,7 @@ function promptInfo(){
 
      if (confirmSpecial) {
       storeAr = storeAr.concat(charAr)
-      window.alert("Password will special characters.")
+      window.alert("Password will contain special characters.")
      } else {
        window.alert("Password will not contain characters")
      }
