@@ -16,11 +16,11 @@ I used Javascript to collect data from prompts to create a random password using
 
 ## images
 
-![](./Develop/images/Screenshot%202022-06-15%20142529.png)
-![](./Develop/images/Screenshot%202022-06-15%20142606.png)
-![](./Develop/images/Screenshot%202022-06-15%20142643.png)
-![](./Develop/images/Screenshot%202022-06-15%20142658.png)
-![](./Develop/images/Screenshot%202022-06-15%20142705.png)
+![](./images/Screenshot%202022-06-15%20142529.png)
+![](./images/Screenshot%202022-06-15%20142606.png)
+![](./images/Screenshot%202022-06-15%20142643.png)
+![](./images/Screenshot%202022-06-15%20142658.png)
+![](./images/Screenshot%202022-06-15%20142705.png)
 
 ## Website
 
